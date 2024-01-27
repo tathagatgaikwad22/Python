@@ -1,0 +1,23 @@
+
+https://regexr.com/
+https://regexlearn.com/learn/regex101
+
+
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
+HELLO HEL
+hello hel
+hello123
+hello123h
+123hello
+__
+......
+**************
+```````````````
+!!!!!!!!!!!
+
+abcdef
+a430928409238409234
+a4

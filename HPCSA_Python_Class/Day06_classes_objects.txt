@@ -1,0 +1,25 @@
+------------------------------------------
+Exercise 01 : Classes and objects -- try creating this in oops world
+-------------------------------------------
+Employee
+  # instance variables 
+   emp_id
+   emp_salary
+   mgr_id
+  # class variable 
+  department_name
+  
+  # instance methods
+  get_emp_salary()-> emp_salary
+  set_emp_salary(rcv_salary)-> emp_salary
+
+  # class method 
+  get_department_name() --> department_name
+  
+  # static method
+  field_expertise() --> just displays some expertise for all my employees
+  
+main:
+main
+
+1) create an object employee(100,1000,1)  
